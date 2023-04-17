@@ -7,7 +7,7 @@ body{
 }
 
 .img{
-  background-image: url("Team Working.svg");
+  background-image: url("https://raw.githubusercontent.com/RunOnFlux/Flux_503/main/Team%20Working.svg");
   width:95%;
   height: 100%;
   background-size: 45vmax;
@@ -20,7 +20,7 @@ body{
   width: 95%;
   height:90%;
   position:absolute;
-  background-image: url("Flux Logo.svg");
+  background-image: url("https://raw.githubusercontent.com/RunOnFlux/Flux_503/main/Flux%20Logo.svg");
   top:10%;
   left:5%;
   background-repeat: no-repeat;
