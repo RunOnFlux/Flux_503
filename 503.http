@@ -5,7 +5,7 @@ Content-Type: text/html
 
 <html>
     <head>
-        <title>Error 503 FDM-EU-1-1</title>
+        <title>Error 503 FDM-USA-1-1</title>
         <link rel="shortcut icon" type="image/x-icon" href="https://github.com/RunOnFlux/Flux_503/raw/main/favicon.ico" />
         <link rel="stylesheet" href="https://fonts.cdnfonts.com/css/heart-warming-extra" />
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Open+Sans:wght@400;500;600;700;800&display=swap" />
@@ -146,6 +146,12 @@ Content-Type: text/html
             <h2>Deployment in process, decentralizing your app... <span>Stand by!</span></h2>
             <p>
                 Your application is currently being propagated across the Flux Cloud. A FluxNode should pick it up in the next 5 to 10 minutes.
+            </p>
+            <p>
+                Many applications, such as nodes or gaming servers do not have web interface and so can't be accessed via browser. This error message is thus normal and the application works properly.
+            </p>
+            <p>
+                Application might also not be present on the Flux network. It was not registered, expired or is wrongly configured.
             </p>
             <a href="https://runonflux.io" style="text-decoration: none;">
                 <div class="btnTrans">
